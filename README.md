@@ -1,2 +1,2 @@
 # urban-hacking
-Interaktiver Zeitstrahl zu Ereignissen des NSU-Komplexes.
+Webseite: Interaktiver Zeitstrahl zu Ereignissen des NSU-Komplexes.
