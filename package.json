@@ -1,0 +1,19 @@
+{
+  "name": "urban-hacking",
+  "version": "1.0.0",
+  "description": "Zeitstrahl NSU-Komplex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferhat1/urban-hacking.git"
+  },
+  "author": "Ferhat Ayaydin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferhat1/urban-hacking/issues"
+  },
+  "homepage": "https://github.com/ferhat1/urban-hacking#readme"
+}
