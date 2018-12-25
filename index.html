@@ -4,6 +4,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Zeitstrahl</title>
+
+    <!-- Timeline -->
+    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+    <script type="text/javascript">
+        var options = {
+             language: "de"
+    }
+        // Alternativ default ohne 3. Argument, also options weglassen. Dann ist Zeitangabe auf Englisch.
+        var timeline = new TL.Timeline('timeline-embed',
+        'https://docs.google.com/spreadsheets/d/1aPVtaDSf5cb7JgscA5hALq-mqIS7kAnlaWWXbPpsQpM/edit#gid=0', options);
+    </script>
+
 </head>
 <body>
     
